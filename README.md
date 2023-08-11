@@ -2,7 +2,7 @@
 
 Final source code of the two part series on [Generating a Spiral Staircase Using BMesh](https://salaivv.com/2023/07/27/bmesh-spiral-staircase).
 
-![Banner](/banner_spiral_case.jpg)
+![Banner](/banner_spiral_staircase.jpg)
 
 ## Usage
 
